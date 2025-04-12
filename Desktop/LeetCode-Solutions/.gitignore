@@ -1,0 +1,11 @@
+# Varsayılan olarak her şeyi göz ardı et
+*
+
+# Ama bu klasörleri tut:
+!*/   # Tüm klasörleri tut (çünkü çözüm dosyalarınız klasörlerde olacak)
+
+# .java dosyalarını tut
+!*.java
+
+# İsteğe bağlı olarak README.md dosyasını tut
+!README.md
