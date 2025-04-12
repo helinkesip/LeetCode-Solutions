@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+.DS_Store
+.gradle/
+build/
+bin/
+out/
+target/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.log
+*.cache
+dependency-reduced-pom.xml
+!gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
